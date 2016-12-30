@@ -11,7 +11,7 @@ import org.junit.Test;
  * @author Swapnil Srivastav
  *
  */
-public class TestApp {
+public class TestApp  {
 
 	@Test
 	public void test() {
